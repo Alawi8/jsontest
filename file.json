@@ -1,0 +1,65 @@
+{
+    "name": "Alex Johnson",
+    "email": "alex.johnson@example.com",
+    "profession": "Software Engineer",
+    "location": "Berlin, Germany",
+    "summary": "Experienced developer specializing in web applications, API design, and cloud-native solutions.",
+    "education": [
+        {
+            "degree": "Master of Science in Computer Science",
+            "institution": "Technical University of Berlin",
+            "year": 2022
+        },
+        {
+            "degree": "Bachelor of Science in Information Technology",
+            "institution": "University of Manchester",
+            "year": 2020
+        }
+    ],
+    "courses": [
+        "Advanced JavaScript",
+        "Cloud Architecture and Deployment",
+        "Data Structures and Algorithms",
+        "UX Design Fundamentals"
+    ],
+    "skills": [
+        "JavaScript",
+        "Node.js",
+        "React",
+        "TypeScript",
+        "REST APIs",
+        "Docker",
+        "AWS"
+    ],
+    "experience": [
+        {
+            "role": "Senior Software Engineer",
+            "company": "Innovatech Solutions",
+            "duration": "2023 - Present",
+            "responsibilities": [
+                "Lead full-stack development for enterprise web applications.",
+                "Design scalable APIs and microservices architecture.",
+                "Mentor junior engineers and conduct code reviews."
+            ]
+        },
+        {
+            "role": "Software Developer",
+            "company": "NextGen Apps",
+            "duration": "2020 - 2023",
+            "responsibilities": [
+                "Built responsive user interfaces using React.",
+                "Integrated third-party services and improved application performance.",
+                "Collaborated with product teams to define feature requirements."
+            ]
+        }
+    ],
+    "certifications": [
+        "AWS Certified Developer",
+        "Certified Scrum Master"
+    ],
+    "contact": {
+        "phone": "+49 30 1234 5678",
+        "website": "https://www.alexjohnson.dev",
+        "linkedin": "https://www.linkedin.com/in/alexjohnson"
+    }
+}
